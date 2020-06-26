@@ -6,7 +6,7 @@ learning how to do and transcribe it
 Readme.md  
 2  
 11  
--[ ] have my summer vacation plan finished yet?  
+ - [x] have my summer vacation plan finished yet?  
 
 **Readme.md**  
 readme.md  
