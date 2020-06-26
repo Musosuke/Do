@@ -7,10 +7,14 @@ source: https://ithelp.ithome.com.tw/articles/10203758
 Bold
 ****
  
-H1~H5 font
+H1~H5 font (syntax of Setext)
 #
 ##
 ######
+
+below is a syntax of atx
+== means major title
+-- means sub  major title
 
 indent
 *
@@ -33,3 +37,9 @@ insert a pic
 
 quote
 >
+
+----------------------------
+
+so,OK
+it is not easy to understand
+I hope to create a same but a .md file to make it readable 
