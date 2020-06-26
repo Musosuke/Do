@@ -1,8 +1,8 @@
 below,the following is its syntax.
 
 -----------------------------------------------------
-source: https://ithelp.ithome.com.tw/articles/10203758
-
+source1: https://ithelp.ithome.com.tw/articles/10203758
+source2: https://markdown.tw/#p
 
 Bold
 ****
@@ -22,6 +22,17 @@ indent
 	*
 	*
 
+Diveder
+* * *
+or
+***
+or
+*****
+or
+- - -
+or 
+----------
+
 checkbox
 -[X]<-completed
 -[ ]<-imcompleted
@@ -33,7 +44,7 @@ big area(code) -with 4 spaces
     code(content)
 
 insert a pic
-![GITHUB?](pic_address"pic_name")
+![any text](pic_address"pic_name")
 
 quote
 >
