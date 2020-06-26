@@ -1,0 +1,35 @@
+below,the following is its syntax.
+
+-----------------------------------------------------
+source: https://ithelp.ithome.com.tw/articles/10203758
+
+
+Bold
+****
+ 
+H1~H5 font
+#
+##
+######
+
+indent
+*
+*
+	*
+	*
+
+checkbox
+-[X]<-completed
+-[ ]<-imcompleted
+
+small area
+`content`
+
+big area(code) -with 4 spaces
+    code(content)
+
+insert a pic
+![GITHUB?](pic_address"pic_name")
+
+quote
+>
