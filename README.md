@@ -1,4 +1,6 @@
-# Do
+# Hint!  
+## github doesn't run link outside from it!!
+
 learning how to do and transcribe it
 
 Readme.md  
